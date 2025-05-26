@@ -1,0 +1,7 @@
+[project]
+name = "MCP-Maker"
+version = "0.1.0"
+description = "MCP-Maker"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["toml>=0.10.2"]
