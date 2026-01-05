@@ -25,8 +25,8 @@ The script takes a Python file with a class containing your MCP functions and ge
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/starkst3in/mcp-maker.git
+   cd mcp-maker
    ```
 
 2. Install `uv` and `toml` globally:
